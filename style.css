@@ -87,3 +87,10 @@ a{
     opacity: 1;
     transition: 0.4s;
 }
+.profilepic{
+    width: 450px;
+    height: 450px;
+    object-fit: cover;
+    border-radius: 50%;
+    
+}
